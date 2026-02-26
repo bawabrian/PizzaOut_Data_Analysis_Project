@@ -4,7 +4,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-2ECC71?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle%20(Fictional)-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Company](https://img.shields.io/badge/PizzaOut-Fictional%20Company-lightgrey?style=for-the-badge)
 
@@ -22,7 +21,7 @@
 
 ## 📸 Dashboard Preview
 
-![PizzaOut Dashboard](./Dashboard_Pizza_Out.png)
+![PizzaOut Dashboard](./Dashboard.png)
 
 > *A fully interactive Excel dashboard analysing simulated pizza sales data — built using SQL for data extraction and cleaning, pivot tables for aggregation, and Excel charts for visual storytelling.*
 
